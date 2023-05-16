@@ -12,7 +12,7 @@ https://webnfc.github.io/
 
 # Screenshot
 
-![Screenshot](extras/images/screenshot.jpeg)
+<img width="280" src="extras/images/screenshot.jpeg?raw=true">
 
 # Specs
 
